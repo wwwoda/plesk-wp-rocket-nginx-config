@@ -11,3 +11,8 @@ end_of_line = lf
 [*.md]
 indent_size = 4
 trim_trailing_whitespace = false
+
+[*.conf]
+indent_style = tab
+indent_size = 8
+trim_trailing_whitespace = false
